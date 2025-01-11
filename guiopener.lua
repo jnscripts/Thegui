@@ -60,7 +60,7 @@ minimizeButton.MouseButton1Click:Connect(function()
 end)
 
 pcall(function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/d5adc836388b91cc676577a4.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/jnscripts/jnhubmm2/refs/heads/main/jnscriptsmain.lua'))()
 end)
 
 local function createButton(text, position, parent)
